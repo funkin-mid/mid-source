@@ -1,3 +1,5 @@
+Docs written by John "Jonkler" Claire
+
 # Friday Night Funkin' - VS. Mid
 A mod for [Friday Night Funkin'](https://github.com/FunkinCrew/Funkin), created using [Psych Engine](https://www.github.com/ShadowMario/FNF-PsychEngine).
 
